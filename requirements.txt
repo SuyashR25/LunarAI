@@ -1,0 +1,8 @@
+Libraries and Packages used:
+1. OpenCV (pip install opencv-python)
+2. Matplotlib (pip install matplotlib)
+3. NumPy (pip install numpy)
+4. Pandas (pip install pandas)
+5. Ultralytics (YOLO) (pip install ultalytics)
+6. Pytorch (Install correct Pytorch version from https://pytorch.org/ with CUDA)
+7. Flask (pip install flask)
